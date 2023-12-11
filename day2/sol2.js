@@ -6,6 +6,6 @@ games = calcMinCubes(games);
 let answer = sumPowers(games);
 
 
-console.dir(games, { depth: 4 });
+//console.dir(games, { depth: 4 });
 console.log("Answer:", answer);
 

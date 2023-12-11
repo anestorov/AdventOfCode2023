@@ -8,7 +8,7 @@ let games = process(getData());
 games = validate(games, conditions);
 let answer = sumValid(games);
 
-console.dir(games, { depth: 4 });
+//console.dir(games, { depth: 4 });
 console.log("Answer:", answer);
 
 

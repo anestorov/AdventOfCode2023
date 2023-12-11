@@ -33,9 +33,9 @@ function process(data) {
         //console.log(letters[0] * 10 + (letters[1] - 0));
         return letters[0] * 10 + (letters[1] - 0)
     })
-    console.log(rows);
+    //console.log(rows);
     let ans = rows.reduce((acc,val)=>acc+val,0);
-    console.log(ans);
+    console.log("Answer:",ans);
 }
 
 
