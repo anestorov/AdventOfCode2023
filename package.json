@@ -6,7 +6,8 @@
   "scripts": {
     "day1": "node day1/solution.js",
     "day2.1": "node day2/sol1.js",
-    "day2.2": "node day2/sol2.js"
+    "day2.2": "node day2/sol2.js",
+    "day3.1": "node day3/sol1.js"
   },
   "author": "Asparuh Nestorov",
   "license": "ISC"
